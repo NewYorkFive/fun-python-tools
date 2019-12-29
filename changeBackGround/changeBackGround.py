@@ -47,6 +47,17 @@ for target_dir in target_dirs:
     add_picture_from_path(target_dir)
 
 image_paths_len = len(image_paths)
+if image_paths_len == 0:
+    print("no picture load, exit")
+    exit()
+if image_paths_len == 1:
+    commands = ''' 
+        osascript -e 'tell application "Finder" to set desktop picture to POSIX file "{}"'
+        '''.format(image_paths[0])
+    print("only picture load, exit")
+    os.system(commands)        
+    exit()
+
 for i in range(0, total_change_times):
     test_image_path = image_paths[randrange(image_paths_len)]
     # test_image_path = image_paths[i]
