@@ -1,4 +1,5 @@
 import os
+import shutil
 
 '''
 1.put your dir path in this array, default will be current dir
@@ -31,6 +32,9 @@ def del_dir(dir_path):
     if (len(os.listdir(dir_path))) == 0:
         os.rmdir(dir_path)
         print("delete {}".format(dir_path))
+    elif len(os.listdir(dir_path)) == 1 and os.listdir(dir_path)[0] == ".DS_Store":
+        shutil.rmtree(dir_path)
+        print("Only DS_Store, delete {}".format(dir_path))
 
 
 for target_dir in target_dirs:
