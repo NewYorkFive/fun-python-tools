@@ -28,3 +28,12 @@
 
 ### Custom setting:
 1. to change target folders, change line `target_dirs = []`
+
+
+## 3. reverse a text file
+![](./reverseTextFile/reverseTextFileEffect.gif)
+
+### How to use:
+1. download the [python file](./reverseTextFile/reverseTextFile.py) in a `folder`
+2. open terminal, cd the `folder`
+3. run `python3 reverseTextFile.py target_text_file` or `python3 reverseTextFile.py target_text_file start_line end_line`, example 'python3 reverseTextFile.py README.md 5 50'
