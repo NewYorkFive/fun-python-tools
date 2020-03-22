@@ -37,3 +37,14 @@
 1. download the [python file](./reverseTextFile/reverseTextFile.py) in a `folder`
 2. open terminal, cd the `folder`
 3. run `python3 reverseTextFile.py target_text_file` or `python3 reverseTextFile.py target_text_file start_line end_line`, example 'python3 reverseTextFile.py README.md 5 50'
+
+
+## 4. fileReplacement, replace targetStrings to purposeStrings in a folder
+
+![](./fileReplacement/fileReplacementEffect.gif)
+
+### How to use:
+1. download the [python file](./fileReplacement/fileReplacement.py) and the [replaceDic.txt](./fileReplacement/replaceDic.txt) in a `folder`
+2. edit the `replaceDic.txt` to suit your goal
+3. open terminal, cd the `folder`
+4. run `python3 fileReplacement.py target_folder`, example `python3 fileReplacement.py sample`
