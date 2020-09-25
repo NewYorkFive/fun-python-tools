@@ -1,0 +1,2062 @@
+[
+    {
+        "parentIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_117",
+        "fetchedFromCache": false,
+        "title": "Compile /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+        "warningCount": 0,
+        "duration": 1.3666080236434937,
+        "startTimestamp": 1601016649.589756,
+        "swiftFunctionTimes": [
+            {
+                "durationMS": 57.35,
+                "startingColumn": 58,
+                "startingLine": 65,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "(closure)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 33.99,
+                "startingColumn": 57,
+                "startingLine": 134,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "(closure)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.57,
+                "startingColumn": 57,
+                "startingLine": 156,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "(closure)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.4,
+                "startingColumn": 56,
+                "startingLine": 188,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "(closure)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.02,
+                "startingColumn": 21,
+                "startingLine": 15,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "getter featureVC",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 21,
+                "startingLine": 15,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "_modify accessor featureVC",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 21,
+                "startingLine": 17,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "setter tipAlertViewController",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 21,
+                "startingLine": 21,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "getter isSolving",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 21,
+                "startingLine": 21,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "_modify accessor isSolving",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 21,
+                "startingLine": 24,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "setter currentNumber",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 9,
+                "startingLine": 28,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "getter puzzleMap",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 9,
+                "startingLine": 28,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "_modify accessor puzzleMap",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 9,
+                "startingLine": 41,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "setter toughMap",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 26,
+                "startingLine": 55,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "getter cageView",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 26,
+                "startingLine": 55,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "_modify accessor cageView",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 26,
+                "startingLine": 65,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "setter buttonMap",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.22,
+                "startingColumn": 28,
+                "startingLine": 83,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "instance method numberButtonClick(numberBtn:)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 26,
+                "startingLine": 89,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "setter bottomButtonArray",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.33,
+                "startingColumn": 28,
+                "startingLine": 104,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "instance method bottomButtonClick(bottomBtn:)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 21,
+                "startingLine": 130,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "getter lastBottomBtn",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 21,
+                "startingLine": 130,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "_modify accessor lastBottomBtn",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 26,
+                "startingLine": 134,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "setter solveButton",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 26,
+                "startingLine": 142,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "getter eraserButton",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 26,
+                "startingLine": 142,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "_modify accessor eraserButton",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 26,
+                "startingLine": 156,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "setter cleanButton",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.95,
+                "startingColumn": 28,
+                "startingLine": 165,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "instance method cleanButtonClick(button:)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 26,
+                "startingLine": 182,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "setter checkButton",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 26,
+                "startingLine": 188,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "getter nextButton",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 26,
+                "startingLine": 188,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "_modify accessor nextButton",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 26,
+                "startingLine": 197,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "getter prevButton",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 26,
+                "startingLine": 197,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "_modify accessor prevButton",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.25,
+                "startingColumn": 19,
+                "startingLine": 206,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "instance method viewDidLoad()",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.71,
+                "startingColumn": 38,
+                "startingLine": 233,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "(closure)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.57,
+                "startingColumn": 41,
+                "startingLine": 269,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "(closure)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.42,
+                "startingColumn": 42,
+                "startingLine": 284,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "(closure)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 180.81,
+                "startingColumn": 22,
+                "startingLine": 218,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "instance method setupUI()",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 2.63,
+                "startingColumn": 22,
+                "startingLine": 345,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "instance method setupNav()",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.02,
+                "startingColumn": 48,
+                "startingLine": 12,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "initializer init(nibName:bundle:)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 5.01,
+                "startingColumn": 22,
+                "startingLine": 360,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "instance method numberMapToButtonMap(numberMap:buttonMap:)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 1.4,
+                "startingColumn": 38,
+                "startingLine": 407,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "(closure)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 5.8,
+                "startingColumn": 28,
+                "startingLine": 385,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "instance method solvePuzzle(button:)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 5.4,
+                "startingColumn": 38,
+                "startingLine": 443,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+                "signature": "(closure)",
+                "occurrences": 3
+            }
+        ],
+        "signature": "CompileSwift normal arm64 /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+        "errors": [],
+        "compilationEndTimestamp": 1601016650.9563642,
+        "compilationDuration": 1.3666080236434937,
+        "endDate": "2020-09-25T06:50:50.956000Z",
+        "errorCount": 0,
+        "domain": "com.apple.dt.IDE.BuildLogSection",
+        "type": "detail",
+        "identifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_121",
+        "buildStatus": "succeeded",
+        "schema": "Swift_Sudoku_Solver",
+        "subSteps": [],
+        "endTimestamp": 1601016650.9563642,
+        "architecture": "arm64",
+        "machineName": "NowOrNever",
+        "buildIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E",
+        "startDate": "2020-09-25T06:50:49.590000Z",
+        "warnings": [],
+        "notes": [],
+        "documentURL": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLSolverViewController.swift",
+        "detailStepType": "swiftCompilation"
+    },
+    {
+        "parentIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_117",
+        "fetchedFromCache": false,
+        "title": "Compile /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewController.swift",
+        "warningCount": 1,
+        "duration": 1.3663519620895386,
+        "startTimestamp": 1601016649.590581,
+        "swiftFunctionTimes": [
+            {
+                "durationMS": 15.16,
+                "startingColumn": 62,
+                "startingLine": 24,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewController.swift",
+                "signature": "(closure)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 26,
+                "startingLine": 16,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewController.swift",
+                "signature": "setter tableView",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 26,
+                "startingLine": 24,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewController.swift",
+                "signature": "getter groupModels",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 26,
+                "startingLine": 24,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewController.swift",
+                "signature": "_modify accessor groupModels",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 3.19,
+                "startingColumn": 22,
+                "startingLine": 52,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewController.swift",
+                "signature": "instance method setupUI()",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 53,
+                "startingLine": 14,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewController.swift",
+                "signature": "initializer init(nibName:bundle:)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 7,
+                "startingLine": 14,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewController.swift",
+                "signature": "deinitializer deinit",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.06,
+                "startingColumn": 10,
+                "startingLine": 89,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewController.swift",
+                "signature": "instance method tableView(_:heightForHeaderInSection:)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.18,
+                "startingColumn": 10,
+                "startingLine": 102,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewController.swift",
+                "signature": "instance method numberOfSections(in:)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 5.69,
+                "startingColumn": 10,
+                "startingLine": 115,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewController.swift",
+                "signature": "instance method tableView(_:cellForRowAt:)",
+                "occurrences": 3
+            }
+        ],
+        "signature": "CompileSwift normal arm64 /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewController.swift",
+        "errors": [],
+        "compilationEndTimestamp": 1601016650.956933,
+        "compilationDuration": 1.3663519620895386,
+        "endDate": "2020-09-25T06:50:50.957000Z",
+        "errorCount": 0,
+        "domain": "com.apple.dt.IDE.BuildLogSection",
+        "type": "detail",
+        "identifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_123",
+        "buildStatus": "succeeded",
+        "schema": "Swift_Sudoku_Solver",
+        "subSteps": [],
+        "endTimestamp": 1601016650.956933,
+        "architecture": "arm64",
+        "machineName": "NowOrNever",
+        "buildIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E",
+        "startDate": "2020-09-25T06:50:49.591000Z",
+        "warnings": [
+            {
+                "characterRangeStart": 0,
+                "startingColumnNumber": 11,
+                "endingColumnNumber": 11,
+                "characterRangeEnd": 1271,
+                "title": "Non-optional expression of type '[DLUnfoldGroupModel]' used in a check for optionals",
+                "endingLineNumber": 38,
+                "type": "swiftWarning",
+                "documentURL": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewController.swift",
+                "startingLineNumber": 38,
+                "severity": 1
+            }
+        ],
+        "notes": [],
+        "documentURL": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewController.swift",
+        "detailStepType": "swiftCompilation"
+    },
+    {
+        "parentIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_117",
+        "fetchedFromCache": false,
+        "title": "Compile /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoModel.swift",
+        "warningCount": 0,
+        "duration": 1.3663049936294556,
+        "startTimestamp": 1601016649.590248,
+        "swiftFunctionTimes": [
+            {
+                "durationMS": 0.01,
+                "startingColumn": 9,
+                "startingLine": 12,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoModel.swift",
+                "signature": "getter imageName",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.02,
+                "startingColumn": 9,
+                "startingLine": 12,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoModel.swift",
+                "signature": "_modify accessor imageName",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 9,
+                "startingLine": 13,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoModel.swift",
+                "signature": "setter textContext",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 19,
+                "startingLine": 15,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoModel.swift",
+                "signature": "instance method setValue(_:forUndefinedKey:)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 33,
+                "startingLine": 11,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoModel.swift",
+                "signature": "initializer init()",
+                "occurrences": 3
+            }
+        ],
+        "signature": "CompileSwift normal arm64 /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoModel.swift",
+        "errors": [],
+        "compilationEndTimestamp": 1601016650.956553,
+        "compilationDuration": 1.3663049936294556,
+        "endDate": "2020-09-25T06:50:50.957000Z",
+        "errorCount": 0,
+        "domain": "com.apple.dt.IDE.BuildLogSection",
+        "type": "detail",
+        "identifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_122",
+        "buildStatus": "succeeded",
+        "schema": "Swift_Sudoku_Solver",
+        "subSteps": [],
+        "endTimestamp": 1601016650.956553,
+        "architecture": "arm64",
+        "machineName": "NowOrNever",
+        "buildIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E",
+        "startDate": "2020-09-25T06:50:49.590000Z",
+        "warnings": [],
+        "notes": [],
+        "documentURL": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoModel.swift",
+        "detailStepType": "swiftCompilation"
+    },
+    {
+        "parentIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_117",
+        "fetchedFromCache": false,
+        "title": "Compile /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/SudokuSolver/DLSudokuSolver.swift",
+        "warningCount": 0,
+        "duration": 1.2401620149612427,
+        "startTimestamp": 1601016649.5919108,
+        "swiftFunctionTimes": [
+            {
+                "durationMS": 0.15,
+                "startingColumn": 26,
+                "startingLine": 15,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/SudokuSolver/DLSudokuSolver.swift",
+                "signature": "initializer init()",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 9,
+                "startingLine": 19,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/SudokuSolver/DLSudokuSolver.swift",
+                "signature": "setter isUnavailableMap",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 9,
+                "startingLine": 22,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/SudokuSolver/DLSudokuSolver.swift",
+                "signature": "getter maxResultCount",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 9,
+                "startingLine": 22,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/SudokuSolver/DLSudokuSolver.swift",
+                "signature": "_modify accessor maxResultCount",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 9,
+                "startingLine": 25,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/SudokuSolver/DLSudokuSolver.swift",
+                "signature": "setter originMap",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.08,
+                "startingColumn": 14,
+                "startingLine": 41,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/SudokuSolver/DLSudokuSolver.swift",
+                "signature": "getter resultMap",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 14,
+                "startingLine": 41,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/SudokuSolver/DLSudokuSolver.swift",
+                "signature": "_modify accessor resultMap",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 14,
+                "startingLine": 48,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/SudokuSolver/DLSudokuSolver.swift",
+                "signature": "setter Col",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 14,
+                "startingLine": 49,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/SudokuSolver/DLSudokuSolver.swift",
+                "signature": "getter Row",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 14,
+                "startingLine": 49,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/SudokuSolver/DLSudokuSolver.swift",
+                "signature": "_modify accessor Row",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 14,
+                "startingLine": 50,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/SudokuSolver/DLSudokuSolver.swift",
+                "signature": "setter Block",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 9,
+                "startingLine": 52,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/SudokuSolver/DLSudokuSolver.swift",
+                "signature": "getter BLANK",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 14,
+                "startingLine": 55,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/SudokuSolver/DLSudokuSolver.swift",
+                "signature": "getter Entry",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 14,
+                "startingLine": 55,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/SudokuSolver/DLSudokuSolver.swift",
+                "signature": "_modify accessor Entry",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 14,
+                "startingLine": 57,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/SudokuSolver/DLSudokuSolver.swift",
+                "signature": "setter Sequence",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 14,
+                "startingLine": 58,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/SudokuSolver/DLSudokuSolver.swift",
+                "signature": "getter seqPtr",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 14,
+                "startingLine": 58,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/SudokuSolver/DLSudokuSolver.swift",
+                "signature": "_modify accessor seqPtr",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 2.73,
+                "startingColumn": 10,
+                "startingLine": 72,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/SudokuSolver/DLSudokuSolver.swift",
+                "signature": "instance method isValidSudoku()",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 74.32,
+                "startingColumn": 10,
+                "startingLine": 91,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/SudokuSolver/DLSudokuSolver.swift",
+                "signature": "instance method setAEntry(row:col:number:)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 71,
+                "startingColumn": 10,
+                "startingLine": 125,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/SudokuSolver/DLSudokuSolver.swift",
+                "signature": "instance method slove(S:)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 7,
+                "startingLine": 11,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/SudokuSolver/DLSudokuSolver.swift",
+                "signature": "deinitializer deinit",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.17,
+                "startingColumn": 10,
+                "startingLine": 224,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/SudokuSolver/DLSudokuSolver.swift",
+                "signature": "instance method printOriginMap()",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 5.02,
+                "startingColumn": 10,
+                "startingLine": 240,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/SudokuSolver/DLSudokuSolver.swift",
+                "signature": "instance method printTwoDimensionalArrayWithSudokuFormat(two_DimensionalArray:)",
+                "occurrences": 3
+            }
+        ],
+        "signature": "CompileSwift normal arm64 /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/SudokuSolver/DLSudokuSolver.swift",
+        "errors": [],
+        "compilationEndTimestamp": 1601016650.832073,
+        "compilationDuration": 1.2401620149612427,
+        "endDate": "2020-09-25T06:50:50.832000Z",
+        "errorCount": 0,
+        "domain": "com.apple.dt.IDE.BuildLogSection",
+        "type": "detail",
+        "identifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_127",
+        "buildStatus": "succeeded",
+        "schema": "Swift_Sudoku_Solver",
+        "subSteps": [],
+        "endTimestamp": 1601016650.832073,
+        "architecture": "arm64",
+        "machineName": "NowOrNever",
+        "buildIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E",
+        "startDate": "2020-09-25T06:50:49.592000Z",
+        "warnings": [],
+        "notes": [],
+        "documentURL": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/SudokuSolver/DLSudokuSolver.swift",
+        "detailStepType": "swiftCompilation"
+    },
+    {
+        "parentIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_117",
+        "fetchedFromCache": false,
+        "title": "Compile /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/UIButton+Extension.swift",
+        "warningCount": 0,
+        "duration": 1.2400879859924316,
+        "startTimestamp": 1601016649.5922751,
+        "swiftFunctionTimes": [
+            {
+                "durationMS": 1.13,
+                "startingColumn": 17,
+                "startingLine": 25,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/UIButton+Extension.swift",
+                "signature": "initializer init(title:target:action:)",
+                "occurrences": 3
+            }
+        ],
+        "signature": "CompileSwift normal arm64 /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/UIButton+Extension.swift",
+        "errors": [],
+        "compilationEndTimestamp": 1601016650.8323631,
+        "compilationDuration": 1.2400879859924316,
+        "endDate": "2020-09-25T06:50:50.832000Z",
+        "errorCount": 0,
+        "domain": "com.apple.dt.IDE.BuildLogSection",
+        "type": "detail",
+        "identifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_128",
+        "buildStatus": "succeeded",
+        "schema": "Swift_Sudoku_Solver",
+        "subSteps": [],
+        "endTimestamp": 1601016650.8323631,
+        "architecture": "arm64",
+        "machineName": "NowOrNever",
+        "buildIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E",
+        "startDate": "2020-09-25T06:50:49.592000Z",
+        "warnings": [],
+        "notes": [],
+        "documentURL": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/UIButton+Extension.swift",
+        "detailStepType": "swiftCompilation"
+    },
+    {
+        "parentIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_117",
+        "fetchedFromCache": false,
+        "title": "Compile /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldGroupModel.swift",
+        "warningCount": 0,
+        "duration": 1.2398689985275269,
+        "startTimestamp": 1601016649.5926461,
+        "swiftFunctionTimes": [
+            {
+                "durationMS": 0.01,
+                "startingColumn": 9,
+                "startingLine": 13,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldGroupModel.swift",
+                "signature": "getter details",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 9,
+                "startingLine": 16,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldGroupModel.swift",
+                "signature": "getter isSelected",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 9,
+                "startingLine": 16,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldGroupModel.swift",
+                "signature": "_modify accessor isSelected",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 19,
+                "startingLine": 31,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldGroupModel.swift",
+                "signature": "instance method setValue(_:forUndefinedKey:)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.08,
+                "startingColumn": 46,
+                "startingLine": 11,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldGroupModel.swift",
+                "signature": "initializer init()",
+                "occurrences": 3
+            }
+        ],
+        "signature": "CompileSwift normal arm64 /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldGroupModel.swift",
+        "errors": [],
+        "compilationEndTimestamp": 1601016650.832515,
+        "compilationDuration": 1.2398689985275269,
+        "endDate": "2020-09-25T06:50:50.833000Z",
+        "errorCount": 0,
+        "domain": "com.apple.dt.IDE.BuildLogSection",
+        "type": "detail",
+        "identifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_129",
+        "buildStatus": "succeeded",
+        "schema": "Swift_Sudoku_Solver",
+        "subSteps": [],
+        "endTimestamp": 1601016650.832515,
+        "architecture": "arm64",
+        "machineName": "NowOrNever",
+        "buildIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E",
+        "startDate": "2020-09-25T06:50:49.593000Z",
+        "warnings": [],
+        "notes": [],
+        "documentURL": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldGroupModel.swift",
+        "detailStepType": "swiftCompilation"
+    },
+    {
+        "parentIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_117",
+        "fetchedFromCache": false,
+        "title": "Compile /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/UIColor+Extension.swift",
+        "warningCount": 0,
+        "duration": 1.07368004322052,
+        "startTimestamp": 1601016649.590886,
+        "swiftFunctionTimes": [
+            {
+                "durationMS": 4.93,
+                "startingColumn": 16,
+                "startingLine": 23,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/UIColor+Extension.swift",
+                "signature": "class method randomColor()",
+                "occurrences": 3
+            }
+        ],
+        "signature": "CompileSwift normal arm64 /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/UIColor+Extension.swift",
+        "errors": [],
+        "compilationEndTimestamp": 1601016650.664566,
+        "compilationDuration": 1.07368004322052,
+        "endDate": "2020-09-25T06:50:50.665000Z",
+        "errorCount": 0,
+        "domain": "com.apple.dt.IDE.BuildLogSection",
+        "type": "detail",
+        "identifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_124",
+        "buildStatus": "succeeded",
+        "schema": "Swift_Sudoku_Solver",
+        "subSteps": [],
+        "endTimestamp": 1601016650.664566,
+        "architecture": "arm64",
+        "machineName": "NowOrNever",
+        "buildIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E",
+        "startDate": "2020-09-25T06:50:49.591000Z",
+        "warnings": [],
+        "notes": [],
+        "documentURL": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/UIColor+Extension.swift",
+        "detailStepType": "swiftCompilation"
+    },
+    {
+        "parentIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_117",
+        "fetchedFromCache": false,
+        "title": "Compile /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLNewFeatureViewController.swift",
+        "warningCount": 0,
+        "duration": 1.0735410451889038,
+        "startTimestamp": 1601016649.5911899,
+        "swiftFunctionTimes": [
+            {
+                "durationMS": 22.32,
+                "startingColumn": 19,
+                "startingLine": 13,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLNewFeatureViewController.swift",
+                "signature": "instance method loadView()",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.14,
+                "startingColumn": 19,
+                "startingLine": 31,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLNewFeatureViewController.swift",
+                "signature": "instance method touchesBegan(_:with:)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 47.87,
+                "startingColumn": 22,
+                "startingLine": 35,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLNewFeatureViewController.swift",
+                "signature": "instance method setupUI()",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.03,
+                "startingColumn": 26,
+                "startingLine": 84,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLNewFeatureViewController.swift",
+                "signature": "getter models",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 26,
+                "startingLine": 84,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLNewFeatureViewController.swift",
+                "signature": "_modify accessor models",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 7,
+                "startingLine": 11,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLNewFeatureViewController.swift",
+                "signature": "deinitializer deinit",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 52,
+                "startingLine": 11,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLNewFeatureViewController.swift",
+                "signature": "initializer init(coder:)",
+                "occurrences": 3
+            }
+        ],
+        "signature": "CompileSwift normal arm64 /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLNewFeatureViewController.swift",
+        "errors": [],
+        "compilationEndTimestamp": 1601016650.664731,
+        "compilationDuration": 1.0735410451889038,
+        "endDate": "2020-09-25T06:50:50.665000Z",
+        "errorCount": 0,
+        "domain": "com.apple.dt.IDE.BuildLogSection",
+        "type": "detail",
+        "identifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_125",
+        "buildStatus": "succeeded",
+        "schema": "Swift_Sudoku_Solver",
+        "subSteps": [],
+        "endTimestamp": 1601016650.664731,
+        "architecture": "arm64",
+        "machineName": "NowOrNever",
+        "buildIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E",
+        "startDate": "2020-09-25T06:50:49.591000Z",
+        "warnings": [],
+        "notes": [],
+        "documentURL": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Controller/DLNewFeatureViewController.swift",
+        "detailStepType": "swiftCompilation"
+    },
+    {
+        "parentIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_117",
+        "fetchedFromCache": false,
+        "title": "Compile /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Model/DLHelpModel.swift",
+        "warningCount": 0,
+        "duration": 1.0733119249343872,
+        "startTimestamp": 1601016649.591567,
+        "swiftFunctionTimes": [
+            {
+                "durationMS": 0.01,
+                "startingColumn": 9,
+                "startingLine": 12,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Model/DLHelpModel.swift",
+                "signature": "setter imageName",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 9,
+                "startingLine": 13,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Model/DLHelpModel.swift",
+                "signature": "getter textContext",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 9,
+                "startingLine": 13,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Model/DLHelpModel.swift",
+                "signature": "_modify accessor textContext",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 29,
+                "startingLine": 11,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Model/DLHelpModel.swift",
+                "signature": "initializer init()",
+                "occurrences": 3
+            }
+        ],
+        "signature": "CompileSwift normal arm64 /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Model/DLHelpModel.swift",
+        "errors": [],
+        "compilationEndTimestamp": 1601016650.6648788,
+        "compilationDuration": 1.0733119249343872,
+        "endDate": "2020-09-25T06:50:50.665000Z",
+        "errorCount": 0,
+        "domain": "com.apple.dt.IDE.BuildLogSection",
+        "type": "detail",
+        "identifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_126",
+        "buildStatus": "succeeded",
+        "schema": "Swift_Sudoku_Solver",
+        "subSteps": [],
+        "endTimestamp": 1601016650.6648788,
+        "architecture": "arm64",
+        "machineName": "NowOrNever",
+        "buildIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E",
+        "startDate": "2020-09-25T06:50:49.592000Z",
+        "warnings": [],
+        "notes": [],
+        "documentURL": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Model/DLHelpModel.swift",
+        "detailStepType": "swiftCompilation"
+    },
+    {
+        "parentIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_117",
+        "fetchedFromCache": false,
+        "title": "Compile /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/AppDelegate.swift",
+        "warningCount": 1,
+        "duration": 0.9724600315093994,
+        "startTimestamp": 1601016649.5954309,
+        "swiftFunctionTimes": [
+            {
+                "durationMS": 0.01,
+                "startingColumn": 9,
+                "startingLine": 18,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/AppDelegate.swift",
+                "signature": "setter window",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 55.83,
+                "startingColumn": 10,
+                "startingLine": 20,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/AppDelegate.swift",
+                "signature": "instance method application(_:didFinishLaunchingWithOptions:)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 10,
+                "startingLine": 43,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/AppDelegate.swift",
+                "signature": "instance method applicationWillResignActive(_:)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.02,
+                "startingColumn": 10,
+                "startingLine": 53,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/AppDelegate.swift",
+                "signature": "instance method applicationWillEnterForeground(_:)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.02,
+                "startingColumn": 10,
+                "startingLine": 61,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/AppDelegate.swift",
+                "signature": "instance method applicationWillTerminate(_:)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.02,
+                "startingColumn": 55,
+                "startingLine": 16,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/AppDelegate.swift",
+                "signature": "initializer init()",
+                "occurrences": 3
+            }
+        ],
+        "signature": "CompileSwift normal arm64 /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/AppDelegate.swift",
+        "errors": [],
+        "compilationEndTimestamp": 1601016650.5678911,
+        "compilationDuration": 0.9724600315093994,
+        "endDate": "2020-09-25T06:50:50.568000Z",
+        "errorCount": 0,
+        "domain": "com.apple.dt.IDE.BuildLogSection",
+        "type": "detail",
+        "identifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_136",
+        "buildStatus": "succeeded",
+        "schema": "Swift_Sudoku_Solver",
+        "subSteps": [],
+        "endTimestamp": 1601016650.5678911,
+        "architecture": "arm64",
+        "machineName": "NowOrNever",
+        "buildIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E",
+        "startDate": "2020-09-25T06:50:49.595000Z",
+        "warnings": [
+            {
+                "characterRangeStart": 0,
+                "startingColumnNumber": 8,
+                "endingColumnNumber": 8,
+                "characterRangeEnd": 893,
+                "title": "Setter for 'statusBarStyle' was deprecated in iOS 9.0: Use -[UIViewController preferredStatusBarStyle]",
+                "endingLineNumber": 30,
+                "type": "swiftWarning",
+                "documentURL": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/AppDelegate.swift",
+                "startingLineNumber": 30,
+                "severity": 1
+            }
+        ],
+        "notes": [],
+        "documentURL": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/AppDelegate.swift",
+        "detailStepType": "swiftCompilation"
+    },
+    {
+        "parentIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_117",
+        "fetchedFromCache": false,
+        "title": "Compile /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/UIView+Extension.swift",
+        "warningCount": 0,
+        "duration": 0.9722719192504883,
+        "startTimestamp": 1601016649.595844,
+        "swiftFunctionTimes": [
+            {
+                "durationMS": 0.31,
+                "startingColumn": 9,
+                "startingLine": 16,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/UIView+Extension.swift",
+                "signature": "setter x",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.23,
+                "startingColumn": 9,
+                "startingLine": 21,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/UIView+Extension.swift",
+                "signature": "getter y",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 9,
+                "startingLine": 20,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/UIView+Extension.swift",
+                "signature": "_modify accessor y",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.16,
+                "startingColumn": 9,
+                "startingLine": 33,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/UIView+Extension.swift",
+                "signature": "setter centerX",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.18,
+                "startingColumn": 9,
+                "startingLine": 39,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/UIView+Extension.swift",
+                "signature": "getter centerY",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 9,
+                "startingLine": 38,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/UIView+Extension.swift",
+                "signature": "_modify accessor centerY",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.2,
+                "startingColumn": 9,
+                "startingLine": 51,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/UIView+Extension.swift",
+                "signature": "setter width",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.17,
+                "startingColumn": 9,
+                "startingLine": 57,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/UIView+Extension.swift",
+                "signature": "getter height",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 9,
+                "startingLine": 56,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/UIView+Extension.swift",
+                "signature": "_modify accessor height",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.15,
+                "startingColumn": 9,
+                "startingLine": 69,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/UIView+Extension.swift",
+                "signature": "setter size",
+                "occurrences": 3
+            }
+        ],
+        "signature": "CompileSwift normal arm64 /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/UIView+Extension.swift",
+        "errors": [],
+        "compilationEndTimestamp": 1601016650.568116,
+        "compilationDuration": 0.9722719192504883,
+        "endDate": "2020-09-25T06:50:50.568000Z",
+        "errorCount": 0,
+        "domain": "com.apple.dt.IDE.BuildLogSection",
+        "type": "detail",
+        "identifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_137",
+        "buildStatus": "succeeded",
+        "schema": "Swift_Sudoku_Solver",
+        "subSteps": [],
+        "endTimestamp": 1601016650.568116,
+        "architecture": "arm64",
+        "machineName": "NowOrNever",
+        "buildIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E",
+        "startDate": "2020-09-25T06:50:49.596000Z",
+        "warnings": [],
+        "notes": [],
+        "documentURL": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/UIView+Extension.swift",
+        "detailStepType": "swiftCompilation"
+    },
+    {
+        "parentIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_117",
+        "fetchedFromCache": false,
+        "title": "Compile /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewHeaderFooterView.swift",
+        "warningCount": 0,
+        "duration": 0.9722239971160889,
+        "startTimestamp": 1601016649.596117,
+        "swiftFunctionTimes": [
+            {
+                "durationMS": 4.4,
+                "startingColumn": 51,
+                "startingLine": 27,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewHeaderFooterView.swift",
+                "signature": "(closure)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 17,
+                "startingLine": 14,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewHeaderFooterView.swift",
+                "signature": "getter margin",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 9,
+                "startingLine": 16,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewHeaderFooterView.swift",
+                "signature": "getter model",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 9,
+                "startingLine": 16,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewHeaderFooterView.swift",
+                "signature": "_modify accessor model",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 26,
+                "startingLine": 27,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewHeaderFooterView.swift",
+                "signature": "setter modelTextLabel",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 26,
+                "startingLine": 34,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewHeaderFooterView.swift",
+                "signature": "getter indicator",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 26,
+                "startingLine": 34,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewHeaderFooterView.swift",
+                "signature": "_modify accessor indicator",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.99,
+                "startingColumn": 22,
+                "startingLine": 44,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewHeaderFooterView.swift",
+                "signature": "instance method setupUI()",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.41,
+                "startingColumn": 44,
+                "startingLine": 61,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewHeaderFooterView.swift",
+                "signature": "(closure)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.37,
+                "startingColumn": 14,
+                "startingLine": 69,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewHeaderFooterView.swift",
+                "signature": "initializer init(coder:)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 9,
+                "startingLine": 74,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewHeaderFooterView.swift",
+                "signature": "setter block",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 111.94,
+                "startingColumn": 19,
+                "startingLine": 76,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewHeaderFooterView.swift",
+                "signature": "instance method touchesBegan(_:with:)",
+                "occurrences": 3
+            }
+        ],
+        "signature": "CompileSwift normal arm64 /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewHeaderFooterView.swift",
+        "errors": [],
+        "compilationEndTimestamp": 1601016650.568341,
+        "compilationDuration": 0.9722239971160889,
+        "endDate": "2020-09-25T06:50:50.568000Z",
+        "errorCount": 0,
+        "domain": "com.apple.dt.IDE.BuildLogSection",
+        "type": "detail",
+        "identifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_138",
+        "buildStatus": "succeeded",
+        "schema": "Swift_Sudoku_Solver",
+        "subSteps": [],
+        "endTimestamp": 1601016650.568341,
+        "architecture": "arm64",
+        "machineName": "NowOrNever",
+        "buildIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E",
+        "startDate": "2020-09-25T06:50:49.596000Z",
+        "warnings": [],
+        "notes": [],
+        "documentURL": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewHeaderFooterView.swift",
+        "detailStepType": "swiftCompilation"
+    },
+    {
+        "parentIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_117",
+        "fetchedFromCache": false,
+        "title": "Compile /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/UILabel+Extension.swift",
+        "warningCount": 0,
+        "duration": 0.7544819116592407,
+        "startTimestamp": 1601016649.59299,
+        "signature": "CompileSwift normal arm64 /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/UILabel+Extension.swift",
+        "errors": [],
+        "compilationEndTimestamp": 1601016650.347472,
+        "compilationDuration": 0.7544819116592407,
+        "endDate": "2020-09-25T06:50:50.347000Z",
+        "errorCount": 0,
+        "domain": "com.apple.dt.IDE.BuildLogSection",
+        "type": "detail",
+        "identifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_130",
+        "buildStatus": "succeeded",
+        "schema": "Swift_Sudoku_Solver",
+        "subSteps": [],
+        "endTimestamp": 1601016650.347472,
+        "architecture": "arm64",
+        "machineName": "NowOrNever",
+        "buildIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E",
+        "startDate": "2020-09-25T06:50:49.593000Z",
+        "warnings": [],
+        "notes": [],
+        "documentURL": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/UILabel+Extension.swift",
+        "detailStepType": "swiftCompilation"
+    },
+    {
+        "parentIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_117",
+        "fetchedFromCache": false,
+        "title": "Compile /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewCell.swift",
+        "warningCount": 0,
+        "duration": 0.7543220520019531,
+        "startTimestamp": 1601016649.593336,
+        "swiftFunctionTimes": [
+            {
+                "durationMS": 0.35,
+                "startingColumn": 14,
+                "startingLine": 13,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewCell.swift",
+                "signature": "initializer init(style:reuseIdentifier:)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 104.12,
+                "startingColumn": 34,
+                "startingLine": 28,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewCell.swift",
+                "signature": "(closure)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.18,
+                "startingColumn": 19,
+                "startingLine": 36,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewCell.swift",
+                "signature": "instance method awakeFromNib()",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 7,
+                "startingLine": 11,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewCell.swift",
+                "signature": "deinitializer deinit",
+                "occurrences": 3
+            }
+        ],
+        "signature": "CompileSwift normal arm64 /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewCell.swift",
+        "errors": [],
+        "compilationEndTimestamp": 1601016650.3476582,
+        "compilationDuration": 0.7543220520019531,
+        "endDate": "2020-09-25T06:50:50.348000Z",
+        "errorCount": 0,
+        "domain": "com.apple.dt.IDE.BuildLogSection",
+        "type": "detail",
+        "identifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_131",
+        "buildStatus": "succeeded",
+        "schema": "Swift_Sudoku_Solver",
+        "subSteps": [],
+        "endTimestamp": 1601016650.3476582,
+        "architecture": "arm64",
+        "machineName": "NowOrNever",
+        "buildIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E",
+        "startDate": "2020-09-25T06:50:49.593000Z",
+        "warnings": [],
+        "notes": [],
+        "documentURL": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldTableViewCell.swift",
+        "detailStepType": "swiftCompilation"
+    },
+    {
+        "parentIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_117",
+        "fetchedFromCache": false,
+        "title": "Compile /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoCollectionView.swift",
+        "warningCount": 0,
+        "duration": 0.7541440725326538,
+        "startTimestamp": 1601016649.593684,
+        "swiftFunctionTimes": [
+            {
+                "durationMS": 0.02,
+                "startingColumn": 9,
+                "startingLine": 13,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoCollectionView.swift",
+                "signature": "getter modelArray",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 9,
+                "startingLine": 13,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoCollectionView.swift",
+                "signature": "_modify accessor modelArray",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 1.13,
+                "startingColumn": 22,
+                "startingLine": 25,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoCollectionView.swift",
+                "signature": "instance method setupUI()",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 7,
+                "startingLine": 11,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoCollectionView.swift",
+                "signature": "deinitializer deinit",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.13,
+                "startingColumn": 39,
+                "startingLine": 49,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoCollectionView.swift",
+                "signature": "getter numberOfSections",
+                "occurrences": 3
+            }
+        ],
+        "signature": "CompileSwift normal arm64 /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoCollectionView.swift",
+        "errors": [],
+        "compilationEndTimestamp": 1601016650.347828,
+        "compilationDuration": 0.7541440725326538,
+        "endDate": "2020-09-25T06:50:50.348000Z",
+        "errorCount": 0,
+        "domain": "com.apple.dt.IDE.BuildLogSection",
+        "type": "detail",
+        "identifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_132",
+        "buildStatus": "succeeded",
+        "schema": "Swift_Sudoku_Solver",
+        "subSteps": [],
+        "endTimestamp": 1601016650.347828,
+        "architecture": "arm64",
+        "machineName": "NowOrNever",
+        "buildIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E",
+        "startDate": "2020-09-25T06:50:49.594000Z",
+        "warnings": [],
+        "notes": [],
+        "documentURL": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoCollectionView.swift",
+        "detailStepType": "swiftCompilation"
+    },
+    {
+        "parentIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_117",
+        "fetchedFromCache": false,
+        "title": "Compile /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldDetailModel.swift",
+        "warningCount": 0,
+        "duration": 0.7228130102157593,
+        "startTimestamp": 1601016649.594115,
+        "swiftFunctionTimes": [
+            {
+                "durationMS": 0.02,
+                "startingColumn": 37,
+                "startingLine": 11,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldDetailModel.swift",
+                "signature": "initializer init()",
+                "occurrences": 3
+            }
+        ],
+        "signature": "CompileSwift normal arm64 /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldDetailModel.swift",
+        "errors": [],
+        "compilationEndTimestamp": 1601016650.316928,
+        "compilationDuration": 0.7228130102157593,
+        "endDate": "2020-09-25T06:50:50.317000Z",
+        "errorCount": 0,
+        "domain": "com.apple.dt.IDE.BuildLogSection",
+        "type": "detail",
+        "identifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_133",
+        "buildStatus": "succeeded",
+        "schema": "Swift_Sudoku_Solver",
+        "subSteps": [],
+        "endTimestamp": 1601016650.316928,
+        "architecture": "arm64",
+        "machineName": "NowOrNever",
+        "buildIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E",
+        "startDate": "2020-09-25T06:50:49.594000Z",
+        "warnings": [],
+        "notes": [],
+        "documentURL": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/DLUnfoldCell/DLUnfoldDetailModel.swift",
+        "detailStepType": "swiftCompilation"
+    },
+    {
+        "parentIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_117",
+        "fetchedFromCache": false,
+        "title": "Compile /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/UIImage+Extension.swift",
+        "warningCount": 0,
+        "duration": 0.7225960493087769,
+        "startTimestamp": 1601016649.594512,
+        "signature": "CompileSwift normal arm64 /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/UIImage+Extension.swift",
+        "errors": [],
+        "compilationEndTimestamp": 1601016650.3171082,
+        "compilationDuration": 0.7225960493087769,
+        "endDate": "2020-09-25T06:50:50.317000Z",
+        "errorCount": 0,
+        "domain": "com.apple.dt.IDE.BuildLogSection",
+        "type": "detail",
+        "identifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_134",
+        "buildStatus": "succeeded",
+        "schema": "Swift_Sudoku_Solver",
+        "subSteps": [],
+        "endTimestamp": 1601016650.3171082,
+        "architecture": "arm64",
+        "machineName": "NowOrNever",
+        "buildIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E",
+        "startDate": "2020-09-25T06:50:49.595000Z",
+        "warnings": [],
+        "notes": [],
+        "documentURL": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/UIImage+Extension.swift",
+        "detailStepType": "swiftCompilation"
+    },
+    {
+        "parentIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_117",
+        "fetchedFromCache": false,
+        "title": "Compile /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/View/DLNumberButton.swift",
+        "warningCount": 0,
+        "duration": 0.7221959829330444,
+        "startTimestamp": 1601016649.5950642,
+        "swiftFunctionTimes": [
+            {
+                "durationMS": 9.99,
+                "startingColumn": 64,
+                "startingLine": 16,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/View/DLNumberButton.swift",
+                "signature": "(closure)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 169.15,
+                "startingColumn": 9,
+                "startingLine": 14,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/View/DLNumberButton.swift",
+                "signature": "didSet observer number",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.03,
+                "startingColumn": 9,
+                "startingLine": 13,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/View/DLNumberButton.swift",
+                "signature": "setter number",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.38,
+                "startingColumn": 14,
+                "startingLine": 31,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/View/DLNumberButton.swift",
+                "signature": "initializer init(frame:)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.43,
+                "startingColumn": 14,
+                "startingLine": 43,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/View/DLNumberButton.swift",
+                "signature": "initializer init(coder:)",
+                "occurrences": 3
+            }
+        ],
+        "signature": "CompileSwift normal arm64 /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/View/DLNumberButton.swift",
+        "errors": [],
+        "compilationEndTimestamp": 1601016650.31726,
+        "compilationDuration": 0.7221959829330444,
+        "endDate": "2020-09-25T06:50:50.317000Z",
+        "errorCount": 0,
+        "domain": "com.apple.dt.IDE.BuildLogSection",
+        "type": "detail",
+        "identifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_135",
+        "buildStatus": "succeeded",
+        "schema": "Swift_Sudoku_Solver",
+        "subSteps": [],
+        "endTimestamp": 1601016650.31726,
+        "architecture": "arm64",
+        "machineName": "NowOrNever",
+        "buildIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E",
+        "startDate": "2020-09-25T06:50:49.595000Z",
+        "warnings": [],
+        "notes": [],
+        "documentURL": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/View/DLNumberButton.swift",
+        "detailStepType": "swiftCompilation"
+    },
+    {
+        "parentIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_117",
+        "fetchedFromCache": false,
+        "title": "Compile /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/DLCommon.swift",
+        "warningCount": 0,
+        "duration": 0.6998879909515381,
+        "startTimestamp": 1601016649.60461,
+        "signature": "CompileSwift normal arm64 /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/DLCommon.swift",
+        "errors": [],
+        "compilationEndTimestamp": 1601016650.304498,
+        "compilationDuration": 0.6998879909515381,
+        "endDate": "2020-09-25T06:50:50.304000Z",
+        "errorCount": 0,
+        "domain": "com.apple.dt.IDE.BuildLogSection",
+        "type": "detail",
+        "identifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_139",
+        "buildStatus": "succeeded",
+        "schema": "Swift_Sudoku_Solver",
+        "subSteps": [],
+        "endTimestamp": 1601016650.304498,
+        "architecture": "arm64",
+        "machineName": "NowOrNever",
+        "buildIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E",
+        "startDate": "2020-09-25T06:50:49.605000Z",
+        "warnings": [],
+        "notes": [],
+        "documentURL": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/DLCommon.swift",
+        "detailStepType": "swiftCompilation"
+    },
+    {
+        "parentIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_117",
+        "fetchedFromCache": false,
+        "title": "Compile /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/View/DLFunctionButton.swift",
+        "warningCount": 0,
+        "duration": 0.699476957321167,
+        "startTimestamp": 1601016649.6052089,
+        "swiftFunctionTimes": [
+            {
+                "durationMS": 0.19,
+                "startingColumn": 14,
+                "startingLine": 34,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/View/DLFunctionButton.swift",
+                "signature": "initializer init(frame:)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 7,
+                "startingLine": 11,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/View/DLFunctionButton.swift",
+                "signature": "deinitializer deinit",
+                "occurrences": 3
+            }
+        ],
+        "signature": "CompileSwift normal arm64 /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/View/DLFunctionButton.swift",
+        "errors": [],
+        "compilationEndTimestamp": 1601016650.304686,
+        "compilationDuration": 0.699476957321167,
+        "endDate": "2020-09-25T06:50:50.305000Z",
+        "errorCount": 0,
+        "domain": "com.apple.dt.IDE.BuildLogSection",
+        "type": "detail",
+        "identifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_140",
+        "buildStatus": "succeeded",
+        "schema": "Swift_Sudoku_Solver",
+        "subSteps": [],
+        "endTimestamp": 1601016650.304686,
+        "architecture": "arm64",
+        "machineName": "NowOrNever",
+        "buildIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E",
+        "startDate": "2020-09-25T06:50:49.605000Z",
+        "warnings": [],
+        "notes": [],
+        "documentURL": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/View/DLFunctionButton.swift",
+        "detailStepType": "swiftCompilation"
+    },
+    {
+        "parentIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_117",
+        "fetchedFromCache": false,
+        "title": "Compile /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoCollectionViewCell.swift",
+        "warningCount": 0,
+        "duration": 0.6992729902267456,
+        "startTimestamp": 1601016649.6055942,
+        "swiftFunctionTimes": [
+            {
+                "durationMS": 0.02,
+                "startingColumn": 9,
+                "startingLine": 15,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoCollectionViewCell.swift",
+                "signature": "getter imageWidthConstraint",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.02,
+                "startingColumn": 9,
+                "startingLine": 15,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoCollectionViewCell.swift",
+                "signature": "_modify accessor imageWidthConstraint",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 9,
+                "startingLine": 16,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoCollectionViewCell.swift",
+                "signature": "setter textContextLeftConstraint",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 1.01,
+                "startingColumn": 9,
+                "startingLine": 19,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoCollectionViewCell.swift",
+                "signature": "didSet observer cellModel",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 9,
+                "startingLine": 18,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoCollectionViewCell.swift",
+                "signature": "setter cellModel",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.02,
+                "startingColumn": 26,
+                "startingLine": 24,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoCollectionViewCell.swift",
+                "signature": "getter modelImageView",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 26,
+                "startingLine": 24,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoCollectionViewCell.swift",
+                "signature": "_modify accessor modelImageView",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 26,
+                "startingLine": 25,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoCollectionViewCell.swift",
+                "signature": "setter modelTextContext",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.31,
+                "startingColumn": 14,
+                "startingLine": 33,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoCollectionViewCell.swift",
+                "signature": "initializer init(frame:)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.71,
+                "startingColumn": 46,
+                "startingLine": 43,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoCollectionViewCell.swift",
+                "signature": "(closure)",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 115.18,
+                "startingColumn": 22,
+                "startingLine": 41,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoCollectionViewCell.swift",
+                "signature": "instance method setupUI()",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 7,
+                "startingLine": 14,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoCollectionViewCell.swift",
+                "signature": "deinitializer deinit",
+                "occurrences": 3
+            }
+        ],
+        "signature": "CompileSwift normal arm64 /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoCollectionViewCell.swift",
+        "errors": [],
+        "compilationEndTimestamp": 1601016650.304867,
+        "compilationDuration": 0.6992729902267456,
+        "endDate": "2020-09-25T06:50:50.305000Z",
+        "errorCount": 0,
+        "domain": "com.apple.dt.IDE.BuildLogSection",
+        "type": "detail",
+        "identifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_141",
+        "buildStatus": "succeeded",
+        "schema": "Swift_Sudoku_Solver",
+        "subSteps": [],
+        "endTimestamp": 1601016650.304867,
+        "architecture": "arm64",
+        "machineName": "NowOrNever",
+        "buildIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E",
+        "startDate": "2020-09-25T06:50:49.606000Z",
+        "warnings": [],
+        "notes": [],
+        "documentURL": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoCollectionViewCell.swift",
+        "detailStepType": "swiftCompilation"
+    },
+    {
+        "parentIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_117",
+        "fetchedFromCache": false,
+        "title": "Compile /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/ViewController.swift",
+        "warningCount": 0,
+        "duration": 0.4798339605331421,
+        "startTimestamp": 1601016649.588855,
+        "swiftFunctionTimes": [
+            {
+                "durationMS": 0.02,
+                "startingColumn": 24,
+                "startingLine": 13,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/ViewController.swift",
+                "signature": "setter displayLabel",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.39,
+                "startingColumn": 19,
+                "startingLine": 14,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/ViewController.swift",
+                "signature": "instance method viewDidLoad()",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 7,
+                "startingLine": 11,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/ViewController.swift",
+                "signature": "deinitializer deinit",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 40,
+                "startingLine": 11,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/ViewController.swift",
+                "signature": "initializer init(coder:)",
+                "occurrences": 3
+            }
+        ],
+        "signature": "CompileSwift normal arm64 /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/ViewController.swift",
+        "errors": [],
+        "compilationEndTimestamp": 1601016650.0686889,
+        "compilationDuration": 0.4798339605331421,
+        "endDate": "2020-09-25T06:50:50.069000Z",
+        "errorCount": 0,
+        "domain": "com.apple.dt.IDE.BuildLogSection",
+        "type": "detail",
+        "identifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_118",
+        "buildStatus": "succeeded",
+        "schema": "Swift_Sudoku_Solver",
+        "subSteps": [],
+        "endTimestamp": 1601016650.0686889,
+        "architecture": "arm64",
+        "machineName": "NowOrNever",
+        "buildIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E",
+        "startDate": "2020-09-25T06:50:49.589000Z",
+        "warnings": [],
+        "notes": [],
+        "documentURL": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/ViewController.swift",
+        "detailStepType": "swiftCompilation"
+    },
+    {
+        "parentIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_117",
+        "fetchedFromCache": false,
+        "title": "Compile /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/String+Extension.swift",
+        "warningCount": 0,
+        "duration": 0.47966301441192627,
+        "startTimestamp": 1601016649.589196,
+        "swiftFunctionTimes": [
+            {
+                "durationMS": 0.35,
+                "startingColumn": 10,
+                "startingLine": 16,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/String+Extension.swift",
+                "signature": "instance method localizedString()",
+                "occurrences": 3
+            }
+        ],
+        "signature": "CompileSwift normal arm64 /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/String+Extension.swift",
+        "errors": [],
+        "compilationEndTimestamp": 1601016650.068859,
+        "compilationDuration": 0.47966301441192627,
+        "endDate": "2020-09-25T06:50:50.069000Z",
+        "errorCount": 0,
+        "domain": "com.apple.dt.IDE.BuildLogSection",
+        "type": "detail",
+        "identifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_119",
+        "buildStatus": "succeeded",
+        "schema": "Swift_Sudoku_Solver",
+        "subSteps": [],
+        "endTimestamp": 1601016650.068859,
+        "architecture": "arm64",
+        "machineName": "NowOrNever",
+        "buildIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E",
+        "startDate": "2020-09-25T06:50:49.589000Z",
+        "warnings": [],
+        "notes": [],
+        "documentURL": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/Common/String+Extension.swift",
+        "detailStepType": "swiftCompilation"
+    },
+    {
+        "parentIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_117",
+        "fetchedFromCache": false,
+        "title": "Compile /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoFlowLayout.swift",
+        "warningCount": 0,
+        "duration": 0.47950708866119385,
+        "startTimestamp": 1601016649.589505,
+        "swiftFunctionTimes": [
+            {
+                "durationMS": 0.01,
+                "startingColumn": 7,
+                "startingLine": 11,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoFlowLayout.swift",
+                "signature": "deinitializer deinit",
+                "occurrences": 3
+            },
+            {
+                "durationMS": 0.01,
+                "startingColumn": 56,
+                "startingLine": 11,
+                "file": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoFlowLayout.swift",
+                "signature": "initializer init(coder:)",
+                "occurrences": 3
+            }
+        ],
+        "signature": "CompileSwift normal arm64 /Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoFlowLayout.swift",
+        "errors": [],
+        "compilationEndTimestamp": 1601016650.0690122,
+        "compilationDuration": 0.47950708866119385,
+        "endDate": "2020-09-25T06:50:50.069000Z",
+        "errorCount": 0,
+        "domain": "com.apple.dt.IDE.BuildLogSection",
+        "type": "detail",
+        "identifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E_120",
+        "buildStatus": "succeeded",
+        "schema": "Swift_Sudoku_Solver",
+        "subSteps": [],
+        "endTimestamp": 1601016650.0690122,
+        "architecture": "arm64",
+        "machineName": "NowOrNever",
+        "buildIdentifier": "NowOrNever_A2366B5E-879B-4492-AE3D-7B0CDB878B5E",
+        "startDate": "2020-09-25T06:50:49.590000Z",
+        "warnings": [],
+        "notes": [],
+        "documentURL": "file:///Users/Now/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Swift_Sudoku_Solver/Classes/ShowInfo/DLShowInfoFlowLayout.swift",
+        "detailStepType": "swiftCompilation"
+    }
+]
